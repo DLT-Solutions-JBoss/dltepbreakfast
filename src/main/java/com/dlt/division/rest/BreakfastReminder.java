@@ -51,7 +51,7 @@ public class BreakfastReminder implements DivisionService{
                 {
                 	//Email scheduled employee
             		final String username = System.getenv("DLT_JBOSS_EMAIL_USER");
-            		final String password = System.getenv("DLT_JBOSS_EMAIL_PWD")
+            		final String password = System.getenv("DLT_JBOSS_EMAIL_PWD");
 
             		Properties props = new Properties();
             		props.put("mail.smtp.auth", "true");
