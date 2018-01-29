@@ -149,26 +149,26 @@ insert into schedule (id, emp_id, delivery_date) values (101,30,'2018-01-05'); -
 insert into schedule (id, emp_id, delivery_date) values (102,18,'2018-01-12');
 insert into schedule (id, emp_id, delivery_date) values (103,16,'2018-01-19');
 insert into schedule (id, emp_id, delivery_date) values (104,37,'2018-01-26');
-insert into schedule (id, emp_id, delivery_date) values (105,31,'2018-02-02');
-insert into schedule (id, emp_id, delivery_date) values (106,11,'2018-02-09');
-insert into schedule (id, emp_id, delivery_date) values (107,15,'2018-02-16');
-insert into schedule (id, emp_id, delivery_date) values (108,32,'2018-02-23');
-insert into schedule (id, emp_id, delivery_date) values (109,17,'2018-03-02');
-insert into schedule (id, emp_id, delivery_date) values (110,1,'2018-03-09');
-insert into schedule (id, emp_id, delivery_date) values (111,7,'2018-03-16');
-insert into schedule (id, emp_id, delivery_date) values (112,3,'2018-03-23');
-insert into schedule (id, emp_id, delivery_date) values (113,5,'2018-03-30');
-insert into schedule (id, emp_id, delivery_date) values (114,6,'2018-04-06');
-insert into schedule (id, emp_id, delivery_date) values (115,35,'2018-04-13');
-insert into schedule (id, emp_id, delivery_date) values (116,28,'2018-04-20');
-insert into schedule (id, emp_id, delivery_date) values (117,36,'2018-04-27'); 
-insert into schedule (id, emp_id, delivery_date) values (118,21,'2018-05-04');
-insert into schedule (id, emp_id, delivery_date) values (119,26,'2018-05-11');
-insert into schedule (id, emp_id, delivery_date) values (120,22,'2018-05-18');
-insert into schedule (id, emp_id, delivery_date) values (121,35,'2018-05-25'); 
+insert into schedule (id, emp_id, delivery_date) values (105,37,'2018-02-02');
+insert into schedule (id, emp_id, delivery_date) values (106,31,'2018-02-09');
+insert into schedule (id, emp_id, delivery_date) values (107,11,'2018-02-16');
+insert into schedule (id, emp_id, delivery_date) values (108,15,'2018-02-23');
+insert into schedule (id, emp_id, delivery_date) values (109,32,'2018-03-02');
+insert into schedule (id, emp_id, delivery_date) values (110,17,'2018-03-09');
+insert into schedule (id, emp_id, delivery_date) values (111,1,'2018-03-16');
+insert into schedule (id, emp_id, delivery_date) values (112,7,'2018-03-23');
+insert into schedule (id, emp_id, delivery_date) values (113,3,'2018-03-30');
+insert into schedule (id, emp_id, delivery_date) values (114,5,'2018-04-06');
+insert into schedule (id, emp_id, delivery_date) values (115,6,'2018-04-13');
+insert into schedule (id, emp_id, delivery_date) values (116,35,'2018-04-20');
+insert into schedule (id, emp_id, delivery_date) values (117,28,'2018-04-27'); 
+insert into schedule (id, emp_id, delivery_date) values (118,36,'2018-05-04');
+insert into schedule (id, emp_id, delivery_date) values (119,21,'2018-05-11');
+insert into schedule (id, emp_id, delivery_date) values (120,26,'2018-05-18');
+insert into schedule (id, emp_id, delivery_date) values (121,22,'2018-05-25'); 
+insert into schedule (id, emp_id, delivery_date) values (122,35,'2018-06-01'); 
 
-insert into schedule (id, emp_id, delivery_date) values (122,30,'2018-06-01'); --new order
-insert into schedule (id, emp_id, delivery_date) values (123,30,'2018-06-08');
+insert into schedule (id, emp_id, delivery_date) values (123,30,'2018-06-08'); -- new order
 insert into schedule (id, emp_id, delivery_date) values (124,18,'2018-06-15');
 insert into schedule (id, emp_id, delivery_date) values (125,16,'2018-06-22');
 insert into schedule (id, emp_id, delivery_date) values (126,37,'2018-06-29');
