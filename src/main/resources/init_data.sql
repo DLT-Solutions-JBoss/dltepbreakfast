@@ -163,13 +163,13 @@ insert into schedule (id, emp_id, delivery_date) values (111,1,'2018-03-16');
 insert into schedule (id, emp_id, delivery_date) values (112,7,'2018-03-23');
 insert into schedule (id, emp_id, delivery_date) values (113,3,'2018-03-30');
 insert into schedule (id, emp_id, delivery_date) values (114,41,'2018-04-06');
-insert into schedule (id, emp_id, delivery_date) values (115,6,'2018-04-13');
+insert into schedule (id, emp_id, delivery_date) values (115,38,'2018-04-13');
 insert into schedule (id, emp_id, delivery_date) values (116,35,'2018-04-20');
 insert into schedule (id, emp_id, delivery_date) values (117,39,'2018-04-27'); 
 insert into schedule (id, emp_id, delivery_date) values (118,36,'2018-05-04');
 insert into schedule (id, emp_id, delivery_date) values (119,21,'2018-05-11');
 insert into schedule (id, emp_id, delivery_date) values (120,26,'2018-05-18');
-insert into schedule (id, emp_id, delivery_date) values (121,38,'2018-05-25'); 
+insert into schedule (id, emp_id, delivery_date) values (121,6,'2018-05-25'); 
 insert into schedule (id, emp_id, delivery_date) values (122,35,'2018-06-01'); 
 
 insert into schedule (id, emp_id, delivery_date) values (123,30,'2018-06-08'); -- new order
