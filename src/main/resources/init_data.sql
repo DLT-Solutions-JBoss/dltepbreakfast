@@ -39,6 +39,8 @@ insert into employee (id, first_name, last_name, email, status) values (38,'Asme
 insert into employee (id, first_name, last_name, email, status) values (39,'Shawn','Luciano Paz', 'shawn.lucianopaz@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (40,'Osmin','Garcia', 'osmin.garcia@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (41,'Mark','Larsen', 'mark.larsen@dlt.com', 'A');
+insert into employee (id, first_name, last_name, email, status) values (42,'Casey','Hartman', 'casey.hartman@dlt.com', 'A');
+insert into employee (id, first_name, last_name, email, status) values (43,'Nathan','Starks', 'nathan.starks@dlt.com', 'A');
 
 insert into provider (id, name, website_url) values (1, 'Bagel Cafe', 'http://www.bagelcafe.com/');
 insert into provider (id, name, website_url) values (2, 'Anitas', 'http://www.anitascorp.com/');
@@ -170,9 +172,9 @@ insert into schedule (id, emp_id, delivery_date) values (118,36,'2018-05-04');
 insert into schedule (id, emp_id, delivery_date) values (119,21,'2018-05-11');
 insert into schedule (id, emp_id, delivery_date) values (120,26,'2018-05-18');
 insert into schedule (id, emp_id, delivery_date) values (121,6,'2018-05-25'); 
-insert into schedule (id, emp_id, delivery_date) values (122,35,'2018-06-01'); 
+insert into schedule (id, emp_id, delivery_date) values (122,42,'2018-06-01'); 
 
-insert into schedule (id, emp_id, delivery_date) values (123,30,'2018-06-08'); -- new order
+insert into schedule (id, emp_id, delivery_date) values (123,43,'2018-06-08'); -- new order
 insert into schedule (id, emp_id, delivery_date) values (124,40,'2018-06-15');
 insert into schedule (id, emp_id, delivery_date) values (125,16,'2018-06-22');
 insert into schedule (id, emp_id, delivery_date) values (126,37,'2018-06-29');
