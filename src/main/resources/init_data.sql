@@ -15,7 +15,7 @@ insert into employee (id, first_name, last_name, email, status) values (14,'Eric
 insert into employee (id, first_name, last_name, email, status) values (15,'Jason','Erickson', 'jason.erickson@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (16,'Kevin','Corey', 'kevin.corey@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (17,'Samantha','Hartle', 'samantha.hartle@dlt.com', 'A');
-insert into employee (id, first_name, last_name, email, status) values (18,'Justin','Robinson', 'justin.robinson@dlt.com', 'I');
+insert into employee (id, first_name, last_name, email, status) values (18,'Justin','Robinson', 'justin.robinson@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (19,'Michelle','Meadows', 'michelle.meadows@dlt.com', 'i');
 insert into employee (id, first_name, last_name, email, status) values (20,'Kevin','Pence', 'kevin.pence@dlt.com', 'I');
 insert into employee (id, first_name, last_name, email, status) values (21,'Sam','Biesenbach', 'sam.biesenbach@dlt.com', 'A');
@@ -206,6 +206,6 @@ insert into schedule (id, emp_id, delivery_date) values (146,37,'2018-11-16');
 insert into schedule (id, emp_id, delivery_date) values (147,31,'2018-11-21');
 insert into schedule (id, emp_id, delivery_date) values (148,11,'2018-11-30');
 insert into schedule (id, emp_id, delivery_date) values (149,15,'2018-12-07');
-insert into schedule (id, emp_id, delivery_date) values (150,32,'2018-12-14');
+insert into schedule (id, emp_id, delivery_date) values (150,18,'2018-12-14');
 insert into schedule (id, emp_id, delivery_date) values (151,17,'2018-12-21');
-insert into schedule (id, emp_id, delivery_date) values (152,44,'2018-12-28');
+insert into schedule (id, emp_id, delivery_date) values (152,1,'2018-12-28');
