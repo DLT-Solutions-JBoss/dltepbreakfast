@@ -25,7 +25,7 @@ insert into employee (id, first_name, last_name, email, status) values (24,'Davi
 insert into employee (id, first_name, last_name, email, status) values (25,'Amanda','Truong', 'amanda.truong@dlt.com', 'I');
 insert into employee (id, first_name, last_name, email, status) values (26,'Matt','Ludeman', 'matt.ludeman@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (27,'Lakeisha','Thomas', 'lakeisha.thomas@dlt.com', 'I');
-insert into employee (id, first_name, last_name, email, status) values (28,'Patrick','Gavin', 'patrick.gavin@dlt.com', 'A');
+insert into employee (id, first_name, last_name, email, status) values (28,'Patrick','Gavin', 'patrick.gavin@dlt.com', 'I');
 insert into employee (id, first_name, last_name, email, status) values (29,'Greg','Agana', 'greg.agana@dlt.com', 'I');
 insert into employee (id, first_name, last_name, email, status) values (30,'Mike','Fitzurka', 'michael.fitzurka@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (31,'Doug','Logar', 'doug.logar@dlt.com', 'A');
