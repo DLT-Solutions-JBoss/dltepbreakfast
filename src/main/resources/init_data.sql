@@ -46,6 +46,8 @@ insert into employee (id, first_name, last_name, email, status) values (45,'Jim'
 insert into employee (id, first_name, last_name, email, status) values (46,'Ben','Willems', 'ben.willems@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (47,'Chasity','Hamilton', 'chasity.hamilton@dlt.com', 'A');
 insert into employee (id, first_name, last_name, email, status) values (48,'Jake','Gillispie', 'jake.gillispie@dlt.com', 'A');
+insert into employee (id, first_name, last_name, email, status) values (49,'Daniel','Callahan', 'daniel.callahan@dlt.com', 'A');
+insert into employee (id, first_name, last_name, email, status) values (50,'Charlie','Cammer', 'charlie.cammer@dlt.com', 'A');
 
 insert into provider (id, name, website_url) values (1, 'Bagel Cafe', 'http://www.bagelcafe.com/');
 insert into provider (id, name, website_url) values (2, 'Anitas', 'http://www.anitascorp.com/');
@@ -196,7 +198,7 @@ insert into schedule (id, emp_id, delivery_date) values (136,6,'2018-09-07');
 insert into schedule (id, emp_id, delivery_date) values (137,3,'2018-09-14');
 insert into schedule (id, emp_id, delivery_date) values (138,21,'2018-09-21');
 insert into schedule (id, emp_id, delivery_date) values (139,36,'2018-09-28');
-insert into schedule (id, emp_id, delivery_date) values (140,21,'2018-10-05');
+insert into schedule (id, emp_id, delivery_date) values (140,49,'2018-10-05');
 insert into schedule (id, emp_id, delivery_date) values (141,26,'2018-10-12');
 insert into schedule (id, emp_id, delivery_date) values (142,38,'2018-10-19');
 insert into schedule (id, emp_id, delivery_date) values (143,35,'2018-10-26');
@@ -209,4 +211,4 @@ insert into schedule (id, emp_id, delivery_date) values (148,11,'2018-11-30');
 insert into schedule (id, emp_id, delivery_date) values (149,15,'2018-12-07');
 insert into schedule (id, emp_id, delivery_date) values (150,18,'2018-12-14');
 insert into schedule (id, emp_id, delivery_date) values (151,17,'2018-12-21');
-insert into schedule (id, emp_id, delivery_date) values (152,1,'2018-12-28');
+insert into schedule (id, emp_id, delivery_date) values (152,50,'2018-12-28');
