@@ -201,12 +201,12 @@ insert into schedule (id, emp_id, delivery_date) values (139,36,'2018-09-28');
 insert into schedule (id, emp_id, delivery_date) values (140,49,'2018-10-05');
 insert into schedule (id, emp_id, delivery_date) values (141,26,'2018-10-12');
 insert into schedule (id, emp_id, delivery_date) values (142,38,'2018-10-19');
-insert into schedule (id, emp_id, delivery_date) values (143,35,'2018-10-26');
+insert into schedule (id, emp_id, delivery_date) values (143,31,'2018-10-26');
 
 insert into schedule (id, emp_id, delivery_date) values (144,30,'2018-11-02'); -- new order
 insert into schedule (id, emp_id, delivery_date) values (145,16,'2018-11-09'); 
 insert into schedule (id, emp_id, delivery_date) values (146,37,'2018-11-16');
-insert into schedule (id, emp_id, delivery_date) values (147,31,'2018-11-21');
+insert into schedule (id, emp_id, delivery_date) values (147,1,'2018-11-21');
 insert into schedule (id, emp_id, delivery_date) values (148,11,'2018-11-30');
 insert into schedule (id, emp_id, delivery_date) values (149,15,'2018-12-07');
 insert into schedule (id, emp_id, delivery_date) values (150,18,'2018-12-14');
