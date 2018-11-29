@@ -207,8 +207,8 @@ insert into schedule (id, emp_id, delivery_date) values (144,30,'2018-11-02'); -
 insert into schedule (id, emp_id, delivery_date) values (145,16,'2018-11-09'); 
 insert into schedule (id, emp_id, delivery_date) values (146,37,'2018-11-16');
 insert into schedule (id, emp_id, delivery_date) values (147,1,'2018-11-21');
-insert into schedule (id, emp_id, delivery_date) values (148,11,'2018-11-30');
+insert into schedule (id, emp_id, delivery_date) values (148,50,'2018-11-30');
 insert into schedule (id, emp_id, delivery_date) values (149,15,'2018-12-07');
 insert into schedule (id, emp_id, delivery_date) values (150,18,'2018-12-14');
 insert into schedule (id, emp_id, delivery_date) values (151,17,'2018-12-21');
-insert into schedule (id, emp_id, delivery_date) values (152,50,'2018-12-28');
+insert into schedule (id, emp_id, delivery_date) values (152,11,'2018-12-28');
