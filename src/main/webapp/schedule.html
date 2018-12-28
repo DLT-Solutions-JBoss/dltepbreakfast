@@ -84,14 +84,14 @@ function loadSchedule()
           var nextUpInd = '';
           var foundNext = false;
 
-          var thanksgivingFriday  = new Date('2018-11-23');
-          var scheduleDate        = new Date('2018-01-01');
-          var scheduleDisplayDate = new Date('2018-01-01');
+          var thanksgivingFriday  = new Date('2019-11-29');
+          var scheduleDate        = new Date('2019-01-01');
+          var scheduleDisplayDate = new Date('2019-01-01');
           var nextFriday = moment().day(5).format('YYYY-MM-DD');
 
 	  if (nextFriday === thanksgivingFriday.toISOString().slice(0,10) )
 	  {
-             nextFriday = new Date('2018-11-21').toISOString().slice(0,10);
+             nextFriday = new Date('2019-11-27').toISOString().slice(0,10);
 	  }
 
           for (var i = 0; i < jsonData.length; i++)

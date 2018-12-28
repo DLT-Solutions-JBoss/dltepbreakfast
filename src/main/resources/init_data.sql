@@ -261,7 +261,7 @@ insert into schedule (id, emp_id, delivery_date) values (196,43,'2019-11-01');
 insert into schedule (id, emp_id, delivery_date) values (197,44,'2019-11-08');
 insert into schedule (id, emp_id, delivery_date) values (198,45,'2019-11-15');
 insert into schedule (id, emp_id, delivery_date) values (199,46,'2019-11-22');
-insert into schedule (id, emp_id, delivery_date) values (200,47,'2019-11-29');
+insert into schedule (id, emp_id, delivery_date) values (200,47,'2019-11-27');
 insert into schedule (id, emp_id, delivery_date) values (201,48,'2019-12-06');
 insert into schedule (id, emp_id, delivery_date) values (202,49,'2019-12-13');
 insert into schedule (id, emp_id, delivery_date) values (203,50,'2019-12-20');
